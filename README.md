@@ -6,15 +6,6 @@
 
 This is a software engineering team generator command line application. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
-## Table of Contents
-
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-- [License](#license)
-
 ## Usage
 
 ![employee summary demo](./Assets/demo.gif)
@@ -30,12 +21,6 @@ To install necessary dependencies, run the following command:
 ## Contributing
 
       folk / pull
-
-## Tests
-
-To run test, run the follwoing command:
-
-      npm run test
 
 ## Questions
 
